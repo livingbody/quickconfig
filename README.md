@@ -5,3 +5,4 @@
 ## pip源设置
 
 [pip源设置](./pip)
+[jdk config](./jdk)
